@@ -11,7 +11,7 @@ Rather than manually saving everyone's number, this tool automates that procedur
 1. Clone this repo
 
 ```
-git clone https://git.sr.ht/~gotlou/BulkVPALookup
+https://github.com/redx-hacker/Redxinfo/tree/main
 ```
 
 2. cd into the newly created BulkVPALookup/ folder
